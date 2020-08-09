@@ -12,4 +12,5 @@ Webotron has the following Features
 - List buckets all
 - List bcuket list_bucket_objects
 - Setup and configure Buckets
+- Sync Dir tree to bucket
 
